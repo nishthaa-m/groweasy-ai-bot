@@ -31,6 +31,7 @@ A simulated WhatsApp-style chatbot that automatically qualifies leads using AI. 
 git clone https://github.com/your-username/groweasy-ai-bot.git
 cd groweasy-ai-bot
 npm install
+```markdown
 
 ### 2. Add Environment Variables
 
@@ -39,3 +40,12 @@ Create a file named `.env` in the root directory of the project:
 ```env
 OPENAI_API_KEY=your_openrouter_api_key
 PORT=3000
+```markdown
+
+### 3. Start the Server
+
+Once dependencies are installed and `.env` is set up, start the server using:
+
+```bash
+npx nodemon src/index.js
+```markdown
