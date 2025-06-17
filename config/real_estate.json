@@ -1,0 +1,10 @@
+{
+  "industry": "real_estate",
+  "questions": [
+    "Which city/location are you looking for?",
+    "Are you looking for a flat, villa, or plot?",
+    "Is this for investment or personal use?",
+    "What’s your budget?",
+    "When do you plan to move?"
+  ]
+}

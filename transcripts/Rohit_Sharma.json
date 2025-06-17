@@ -1,0 +1,61 @@
+{
+  "lead": {
+    "name": "Rohit Sharma",
+    "source": "Website",
+    "message": "not sure"
+  },
+  "transcript": [
+    {
+      "role": "system",
+      "content": "You are a friendly and empathetic sales assistant. Ask relevant, kind questions to qualify the lead. Keep it natural and helpful."
+    },
+    {
+      "role": "user",
+      "content": "Lead Info: Name: Rohit Sharma, Source: Website, Message: not sure"
+    },
+    {
+      "role": "assistant",
+      "content": "Which city/location are you looking for?"
+    },
+    {
+      "role": "user",
+      "content": "What kind of products or services are you interested in exploring?"
+    },
+    {
+      "role": "assistant",
+      "content": "Are you looking for a flat, villa, or plot?"
+    },
+    {
+      "role": "user",
+      "content": "How soon are you looking to make a decision on purchasing property?"
+    },
+    {
+      "role": "assistant",
+      "content": "Is this for investment or personal use?"
+    },
+    {
+      "role": "user",
+      "content": "What is the ideal size or number of rooms you are looking for in a property?"
+    },
+    {
+      "role": "assistant",
+      "content": "What’s your budget?"
+    },
+    {
+      "role": "user",
+      "content": "How did you hear about our website?"
+    },
+    {
+      "role": "assistant",
+      "content": "When do you plan to move?"
+    },
+    {
+      "role": "user",
+      "content": "Is there a preferred area or neighborhood you are interested in?"
+    }
+  ],
+  "classification": {
+    "status": "Cold",
+    "reason": "No clear intent"
+  }
+}
